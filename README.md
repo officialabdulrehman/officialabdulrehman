@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Backend with TypeScript/NodeJS/Express/Mongo/Jest/Supertest
 - 🌱 I’m currently learning ReactNative/TS, and Rust :crab:
-- 👯 I’m looking to collaborate on ReactNative and Rust
+- 👯 I’m looking to collaborate on Node, React/Next, ReactNative, and Rust
 - 🤔 I’m looking for help with New Work Oppotunities
 - 💬 Ask me about anything that is fun
 - 📫 How to reach me: arehman@hotmail.com
