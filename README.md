@@ -1,6 +1,13 @@
 ### Hi there 👋
 ### My Gitlab Profile: https://gitlab.com/officialabdulrehman
 
+- 🔭 I’m currently working on Backend with TypeScript/NodeJS/Express/Mongo/Jest/Supertest
+- 🌱 I’m currently learning ReactNative/TS, and Rust :crab:
+- 👯 I’m looking to collaborate on ReactNative and Rust
+- 🤔 I’m looking for help with New Work Oppotunities
+- 💬 Ask me about anything that is fun
+- 📫 How to reach me: arehman@hotmail.com
+- ⚡ Fun fact: console["log"]("This is valid JS")
 <!--
 **officialabdulrehman/officialabdulrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
